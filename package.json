@@ -1,6 +1,6 @@
 {
-    "name": "dynamodb-localhost",
-    "version": "0.0.6",
+    "name": "@aneilbaboo/dynamodb-localhost",
+    "version": "0.0.6-aneilbaboo1",
     "engines": {
         "node": ">=4.0"
     },
